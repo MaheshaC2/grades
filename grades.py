@@ -1,5 +1,4 @@
 # simple_grade_program.py
-
 grade=int(input('enter the grade:'))
 if grade >=85:
     print("you got an A+.")
